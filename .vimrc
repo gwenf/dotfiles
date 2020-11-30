@@ -17,6 +17,8 @@ Plug 'https://github.com/tpope/vim-commentary'
 call plug#end()
 
 set background=dark
+
+" Only use a color scheme here if you don't already have one for your terminal (e.g. an iterm theme)
 colorscheme solarized
 
 " set number
