@@ -1,0 +1,16 @@
+{
+    "window.zoomLevel": 3,
+    "editor.cursorBlinking": "solid",
+    "workbench.editor.enablePreview": false,
+    "editor.quickSuggestions": true,
+    "editor.parameterHints.enabled": false,
+    "python.formatting.provider": "black",
+    "editor.formatOnSave": true,
+    "python.formatting.blackArgs": [
+        "--line-length",
+        "79"
+    ],
+    "jupyter.alwaysScrollOnNewCell": true,
+    "merge-conflict.autoNavigateNextConflict.enabled": true,
+    "workbench.colorTheme": "Gruvbox Dark Hard"
+}
