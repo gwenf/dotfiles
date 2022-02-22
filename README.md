@@ -2,6 +2,10 @@
 
 I am using [vim-plug](https://github.com/junegunn/vim-plug) for my vim plugins.
 
+### VS Code Settings
+
+- Font: I had to [install Fira Code](https://github.com/tonsky/FiraCode) on my system before I could use it as the default font-family and for font ligatures.
+
 ### Vim Plug Setup
 
 1. Install Vim plug from the link above.
