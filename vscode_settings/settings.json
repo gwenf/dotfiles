@@ -12,5 +12,7 @@
     ],
     "jupyter.alwaysScrollOnNewCell": true,
     "merge-conflict.autoNavigateNextConflict.enabled": true,
-    "workbench.colorTheme": "Gruvbox Dark Hard"
+    "workbench.colorTheme": "Gruvbox Dark Hard",
+    "editor.fontFamily": "'Fira Code', Menlo, Monaco, 'Courier New', monospace",
+    "editor.fontLigatures": true
 }
